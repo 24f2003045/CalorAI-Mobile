@@ -19,7 +19,7 @@
 
 | Home Screen | Analytics Dashboard | Telegram Bot |
 |---|---|---|
-| _(add screenshot)_ | _(add screenshot)_ | _(add screenshot)_ |
+| ![Home Screen](apphome.jpeg) | ![Analytics](Analyticspage.jpeg) | ![Telegram Bot](bottele.jpeg) |
 
 ---
 
@@ -40,7 +40,7 @@
 └─────────────────┘
 
 ```
-
+| ![Architecture Overview](workflow.jpeg) |
 ---
 
 ## ✨ Features
@@ -238,13 +238,13 @@ CalorAI-Mobile/
 
 | Section | Time Spent |
 | :-- | :-- |
-| Primary Task: A/B Test (n8n + Statsig) | [YOUR TIME] hrs |
-| Secondary Task: Health Chatbot | [YOUR TIME] hrs |
-| Bonus 1: Expo Go Mobile App | [YOUR TIME] hrs |
-| Bonus 2: Real-time + Push Notifications | [YOUR TIME] hrs |
-| Bonus 3: Analytics Dashboard | [YOUR TIME] hrs |
-| README + Video | [YOUR TIME] hrs |
-| **Total** | **[TOTAL] hrs** |
+| Primary Task: A/B Test (n8n + Statsig) | 4 hrs |
+| Secondary Task: Health Chatbot | 2-3 hrs |
+| Bonus 1: Expo Go Mobile App | 1 hrs |
+| Bonus 2: Real-time + Push Notifications | 0.5 hrs |
+| Bonus 3: Analytics Dashboard | 0.25 hrs |
+| README + Video | 0.5 hrs |
+| **Total** | **8-9 hrs** |
 
 
 ---
@@ -260,10 +260,10 @@ CalorAI-Mobile/
 
 ## 👤 Author
 
-**[YOUR FULL NAME]**
+**Atul Kumar**
 
-- GitHub: [@[YOUR_GITHUB_USERNAME]](https://github.com/%5BYOUR_GITHUB_USERNAME%5D)
-- Email: [YOUR_EMAIL]
+- GitHub: [@24f2003045](https://github.com/24f2003045)
+- Email: 24f2003045@ds.study.iitm.ac.in
 
 ---
 
@@ -272,19 +272,7 @@ Built with ❤️ for CalorAI Technical Assessment — March 2026
 </div>
 ```
 
-***
 
-## ✅ Only 4 things to fill in manually:
 
-1. `[YOUR_GITHUB_USERNAME]` → your GitHub username
-2. `[YOUR FULL NAME]` → your name
-3. `[YOUR_EMAIL]` → your email
-4. `[YOUR TIME]` → rough hours per section (e.g., 2 hrs, 1 hr etc.)
 
-Save → push → done! 🚀
-<span style="display:none">[^1]</span>
-
-<div align="center">⁂</div>
-
-[^1]: 1000047431.jpeg```
 
