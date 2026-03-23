@@ -40,7 +40,7 @@
 └─────────────────┘
 
 ```
-| ![Architecture Overview](workflow.jpeg) |
+ ![Architecture Overview](workflow.jpeg) 
 ---
 
 ## ✨ Features
